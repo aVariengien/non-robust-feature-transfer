@@ -5,7 +5,7 @@
 
 ### Context
 
-This repository contains the code used in the project of the CS-503 course "Visual Intelligence: machines and mind" at EPFL.
+This repository contains the code used in the project of the CS-503 course "Visual Intelligence: machines and mind" at EPFL. The full report of the project can be found as a pdf [here](https://raw.githubusercontent.com/aVariengien/non-robust-feature-extractor/master/Non-Robust-Feature-Transfer.pdf).
 
 
 ### Instruction
